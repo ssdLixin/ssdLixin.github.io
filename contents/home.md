@@ -1,17 +1,18 @@
 
+陕西师范大学硕士研究生
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### 联系方式
+Email: xcylixin@snnu.edu.cn
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 教育背景
+学士：新闻学，陕西师范大学，2021-2025\
+硕士：传播学，陕西师范大学，2025至今。
 
-#### Contact
+#### 研究方向
+传播社会学，新媒体传播，计算传播。
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 技能评价
+研究方法：掌握批判性话语分析等定性研究方法，结构方程模型等定量研究方法，能够独立完成混合方法研究设计。
+研究工具：能熟练使用爬虫完成文本、用户信息等数据采集，并利用ucinet、R语言完成可视化。
+使用软件：R语言，ucinet等社会网络分析软件，smartpls、amos、spss等统计分析软件
 

@@ -1,16 +1,15 @@
-#### Submitted
+#### 期刊论文
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- 许加彪*,<strong>李欣<strong>. 群际接触理论视角下互联网使用对居民国家认同感的影响机制——基于CSS2021的实证分析 [J]. <strong>民族学刊（CSSCI来源期刊）<strong>, 2025, 16 (4): 59-68+151.[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KvZ2xFUhBEYcQzGiuWBiD7bLr8Dwgs0RtYPKfXA4dA6Izqd34An5SuliLIVXchrVM95gVdVBZZuCXTwDxBJM8DkI9uw_nPm9YH-LPkLNRzidDu9RG14UYOCywleLEXboosMQfZMb5WqoJBMXBuze0nZYZtWksIDy526AXp_isBi9g==&uniplatform=NZKPT&language=CHS)
 
-#### Published
+- 庞华*，付瑞萌，<strong>李欣<strong>. 共进还是守望？GenAI传统文化动画短视频的受众感知与应对模式构建研究 [J]. <strong>新媒体与社会（CSSCI集刊）<strong> （已录用待刊）
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+#### 会议交流
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>李欣</strong>. 第十四届新闻与传播心理研讨会暨中国社会心理学会传播心理专业委员会第十一届年会，2024。
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 许加彪*,<strong>李欣<strong>. 中国新闻史学会地方新闻史专业委员会年会暨“中国近现代传播技术与社会文明”学术论坛，2025。
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 庞华*，付瑞萌，<strong>李欣<strong>. 首届中华文明传播论文工作坊，2025。
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- 卢恒*,<strong>李欣<strong>. “iConference 2024”国际顶级信息学院联盟iSchool学术年会，录用。

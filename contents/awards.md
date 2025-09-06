@@ -1,16 +1,11 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 本科生国家奖学金, 2025。
 
-- National Scholarship for Graduate Student, 2024.
+- 陕西省社会科学信息学会年度优秀论文一等奖，2024。
 
-- First-Prize Scholarship (CUMT), 2024.
+- 陕西师范大学一等奖学金, 2021-2022。
 
-- First-Prize Scholarship (CUMT), 2023.
+- 陕西师范大学优秀本科毕业论文，2025。
 
-- Freshman Scholarship (CUMT), 2022.
+- “推普助力乡村振兴”全国大学生暑期社会实践活动优秀团队，核心成员, 2024。
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
