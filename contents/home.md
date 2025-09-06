@@ -16,6 +16,8 @@ Email: xcylixin@snnu.edu.cn
 #### 技能评价
 
 <strong>研究方法</strong>：掌握批判性话语分析等定性研究方法，结构方程模型等定量研究方法，能够独立完成混合方法研究设计。
+
 <strong>研究工具</strong>：能熟练使用爬虫完成文本、用户信息等数据采集，并利用ucinet、R语言完成可视化。
+
 <strong>使用软件</strong>：R语言，ucinet等社会网络分析软件，smartpls、amos、spss等统计分析软件
 
