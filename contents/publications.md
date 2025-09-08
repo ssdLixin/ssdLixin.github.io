@@ -4,6 +4,7 @@
 
 - 庞华*，付瑞萌，<strong>李欣</strong>. 共进还是守望？GenAI传统文化动画短视频的受众感知与应对模式构建研究 [J]. <strong>新媒体与社会（CSSCI集刊）</strong> （已录用待刊）
 
+- Heng Lu*, Aiye Wei, <strong>Xin Li</strong>. Understanding the privacy disclosure behavior and privacy concerns on short-form video platforms: An empirical investigation. Frontiers in Psychology (Accepetd)
 #### 会议交流
 
 - <strong>李欣</strong>. 第十四届新闻与传播心理研讨会暨中国社会心理学会传播心理专业委员会第十一届年会，2024。
